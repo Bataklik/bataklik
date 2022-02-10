@@ -1,4 +1,4 @@
-### Hi there 👋
+### Is it the world that’s busy, or my mind? 🧠
 
 <!--
 **Bataklik/bataklik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
