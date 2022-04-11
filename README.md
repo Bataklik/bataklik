@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bataklik</h1>
 <h3 align="center">A passionate student developer from Belgium</h3>
 
-- ⚡ Fun fact **bataklik** means swamp!
+- ⚡ Fun fact: **bataklik** means swamp!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
