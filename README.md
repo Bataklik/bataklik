@@ -17,8 +17,8 @@
   <a href="https://linkedin.com/in/JOUW_GEBRUIKERSNAAM" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  <a href="https://www.codewars.com/users/bataklik1213" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codewars" alt="Codewars" height="40" />
+<a href="https://www.codewars.com/users/bataklik1213" target="_blank">
+    <img src="https://raw.githubusercontent.com/codewars/branding/master/logo.svg" alt="Codewars" height="40" style="margin-left: 10px;" />
   </a>
 </p>
 
