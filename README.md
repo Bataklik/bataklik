@@ -2,7 +2,7 @@
 
 ### A passionate developer
 
-- 💬 Ask me about **React, Node.js, Full-stack development**
+- 💬 Ask me about **React, Node.js, Python, Full-stack development**
 - ⚡ Fun fact **Bataklik means swamp!**
 - 👨‍💻 All of my projects are available at [babyburaq.vercel.app](https://babyburaq.vercel.app/)
 
