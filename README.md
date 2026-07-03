@@ -29,3 +29,7 @@
     <img src="https://skillicons.dev/icons?i=cs,css,cypress,dotnet,express,fastapi,firebase,git,html,java,js,jest,mongodb,mysql,nextjs,nodejs,py,react,selenium,spring,ts&perline=10" />
   </a>
 </p>
+
+### 🍵 Gitea Contributions
+
+![gitea-contributions](https://img.lightshot.app/63TzA5CoSo27Z1n0wJepHA.png)
