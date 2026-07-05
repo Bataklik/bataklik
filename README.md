@@ -32,4 +32,4 @@
 
 ### 🍵 Gitea Contributions
 
-![gitea-contributions](https://img.lightshot.app/63TzA5CoSo27Z1n0wJepHA.png)
+![gitea-contributions](https://img.lightshot.app/NlVrRgzRRKaZ3xzuXTpUug.png)
