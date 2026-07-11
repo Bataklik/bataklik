@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **React, Node.js, Python, Full-stack development**
 - ⚡ Fun fact **Bataklik means swamp!**
-- 👨‍💻 All of my projects are available at [babyburaq.vercel.app](https://babyburaq.vercel.app/)
+- 👨‍💻 All of my projects are on [buraq-dev.vercel.app](https://buraq-dev.vercel.app/)
 
 ---
 
